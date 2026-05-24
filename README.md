@@ -102,4 +102,4 @@ python3 merge.py <VOD_ID>     # マージのみ
 | 変数名 | 説明 | デフォルト |
 |--------|------|-----------|
 | `OPENROUTER_API_KEY` | OpenRouter の API キー | （必須） |
-| `VISION_MODEL` | 画面説明に使用する VLM | `google/gemini-3.1-flash-lite-preview` |
+| `VISION_MODEL` | 画面説明に使用する VLM | `google/gemini-3.1-flash-lite` |
